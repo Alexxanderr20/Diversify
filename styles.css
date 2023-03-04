@@ -1,0 +1,44 @@
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar
+{
+    margin: 0 auto;
+    width: 100%;
+    font-size: 1.5rem;
+    display: inline;
+    text-align: center;
+}
+
+nav a
+{
+    float: left;
+    display: block;
+    width: 20%;
+}
+
+
+#dive-heading
+{
+   width: auto;
+   text-align: center;
+   font-size: 55px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: red;
+}
+
+#form
+{
+    display: block;
+    margin-top: 15%;
+    text-align: center;
+}
+
+input
+{
+    display: inline;
+    text-align: left;
+}
