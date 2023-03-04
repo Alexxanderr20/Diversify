@@ -1,11 +1,19 @@
+body
+{
+    background-attachment: fixed;
+    background-image: linear-gradient(blue, black);
+}
+
 ul
 {
+    
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 .nav-bar
 {
+    
     margin: 0 auto;
     width: 100%;
     font-size: 1.5rem;
@@ -15,6 +23,7 @@ ul
 
 nav a
 {
+    color: white;
     float: left;
     display: block;
     width: 20%;
@@ -32,6 +41,7 @@ nav a
 
 #form
 {
+    color: white;
     display: block;
     margin-top: 15%;
     text-align: center;
